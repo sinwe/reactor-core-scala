@@ -1,4 +1,7 @@
 # Reactor Core Scala
+
+This project has a new home. It is now hosted at https://github.com/reactor/reactor-scala-extensions
+
 [![Join the chat at https://gitter.im/reactor/reactor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reactor/reactor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Reactor Core Scala](https://maven-badges.herokuapp.com/maven-central/com.github.sinwe/reactor-core-scala/badge.svg?style=plastic)](http://mvnrepository.com/artifact/com.github.sinwe/reactor-core-scala) 
 [![Travis CI](https://travis-ci.org/sinwe/reactor-core-scala.svg?branch=master)](https://travis-ci.org/sinwe/reactor-core-scala)
